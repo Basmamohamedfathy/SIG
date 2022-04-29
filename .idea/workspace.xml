@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e3713afa-39f0-416f-b239-6412f6fc093f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FirstProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/build.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/manifest.mf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/nbproject/build-impl.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/nbproject/genfiles.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/nbproject/project.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/nbproject/project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/Invoices.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/MainFrame.form" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/MainFrame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/MyFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/SIG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/invoices.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/items.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SIG/src/sig/items.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27sTpIFlnUdX7ByOFKkkKJil09E" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3713afa-39f0-416f-b239-6412f6fc093f" name="Default Changelist" comment="" />
+      <created>1650107979174</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1650107979174</updated>
+    </task>
+    <servers />
+  </component>
+</project>
